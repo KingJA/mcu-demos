@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "led_out.h": "c",
+        "delay.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
