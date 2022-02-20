@@ -3,6 +3,7 @@
  
 void setup() {
   Serial.begin(9600);
+  // 检测
   if(!LittleFS.begin()){
     Serial.println("LITTLEFS Mount Failed");
     return;
